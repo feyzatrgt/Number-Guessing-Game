@@ -1,0 +1,15 @@
+D:\softwares\cs\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.exe
+D:\softwares\cs\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.deps.json
+D:\softwares\cs\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.runtimeconfig.json
+D:\softwares\cs\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.dll
+D:\softwares\cs\numberGuessingGame\bin\Debug\net8.0\numberGuessingGame.pdb
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.AssemblyInfoInputs.cache
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.AssemblyInfo.cs
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.csproj.CoreCompileInputs.cache
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.sourcelink.json
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.dll
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\refint\numberGuessingGame.dll
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.pdb
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\numberGuessingGame.genruntimeconfig.cache
+D:\softwares\cs\numberGuessingGame\obj\Debug\net8.0\ref\numberGuessingGame.dll
